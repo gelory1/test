@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.box{
+    width: 100%;
+    padding-bottom: 100%;
+    background-color: transparent;
+    margin: 0 auto;
+}
+div{
+    background-color: rgb(254,165,0);
+    width:31%;
+    float: left;
+    margin: 1%;
+    padding-bottom: 31%;
+    border-radius: 3.1%;
+}
